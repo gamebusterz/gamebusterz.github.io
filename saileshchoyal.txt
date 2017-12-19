@@ -1,5 +1,5 @@
 <span id="a">sailesh@127.0.0.1</span>:<span id="b">~</span><span id="c">$</span> cat saileshchoyal.txt<br/><br/>
-Hi, I'm Sailesh Choyal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I graduated with a B.Tech (Honours) degree in Computer Science and Engineering.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+\(^◡^ ) Hi, I'm Sailesh Choyal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I graduated with a B.Tech (Honours) degree in Computer Science and Engineering.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 <p>I work as a Data Engineer at Celebal Tech, a Jaipur based Big Data Analytics startup. You can find out more about me in my Resume <a href="https://standardresume.co/saileshchoyal">View</a> or <a href="https://www.dropbox.com/s/c8gmsgq35gx6gmg/Resume%20-%20Sailesh.pdf?dl=0">Download</a> </p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 <p></p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
 If you would like to get in touch with me, whether you're interested in offering me a work position,or for a business venture, or to just say hi<!-- slightdelayhere-->, feel free to send me an email or a tweet.<!-- longlongcomment --> My email address is: <a href="mailto:saileshchoyal@gmail.com">saileshchoyal@gmail.com</a> and my Twitter is: <a href="http://twitter.com/datwitbug">@datwitbug</a>.
